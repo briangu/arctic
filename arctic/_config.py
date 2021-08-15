@@ -52,7 +52,7 @@ FW_POINTERS_CONFIG_KEY = 'FW_POINTERS_CONFIG'
 
 # This variable has effect only in Hybrid mode, and controls whether forward and legacy pointers are cross-verified
 ARCTIC_FORWARD_POINTERS_RECONCILE = False
-ARCTIC_FORWARD_POINTERS_CFG = FwPointersCfg.DISABLED
+ARCTIC_FORWARD_POINTERS_CFG = FwPointersCfg.ENABLED
 
 # ---------------------------
 # Compression configuration
